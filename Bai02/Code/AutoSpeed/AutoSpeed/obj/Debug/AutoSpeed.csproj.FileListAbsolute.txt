@@ -1,0 +1,7 @@
+E:\AutoSpeed\AutoSpeed\obj\Debug\AutoSpeed.csproj.AssemblyReference.cache
+E:\AutoSpeed\AutoSpeed\obj\Debug\AutoSpeed.csproj.CoreCompileInputs.cache
+E:\AutoSpeed\AutoSpeed\bin\Debug\AutoSpeed.exe.config
+E:\AutoSpeed\AutoSpeed\bin\Debug\AutoSpeed.exe
+E:\AutoSpeed\AutoSpeed\bin\Debug\AutoSpeed.pdb
+E:\AutoSpeed\AutoSpeed\obj\Debug\AutoSpeed.exe
+E:\AutoSpeed\AutoSpeed\obj\Debug\AutoSpeed.pdb
