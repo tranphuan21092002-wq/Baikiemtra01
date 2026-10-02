@@ -1,0 +1,10 @@
+E:\TechMartProductManager\TechMartProductManager\bin\Debug\TechMartProductManager.exe.config
+E:\TechMartProductManager\TechMartProductManager\bin\Debug\TechMartProductManager.exe
+E:\TechMartProductManager\TechMartProductManager\bin\Debug\TechMartProductManager.pdb
+E:\TechMartProductManager\TechMartProductManager\obj\Debug\TechMartProductManager.csproj.AssemblyReference.cache
+E:\TechMartProductManager\TechMartProductManager\obj\Debug\TechMartProductManager.Form1.resources
+E:\TechMartProductManager\TechMartProductManager\obj\Debug\TechMartProductManager.Properties.Resources.resources
+E:\TechMartProductManager\TechMartProductManager\obj\Debug\TechMartProductManager.csproj.GenerateResource.cache
+E:\TechMartProductManager\TechMartProductManager\obj\Debug\TechMartProductManager.csproj.CoreCompileInputs.cache
+E:\TechMartProductManager\TechMartProductManager\obj\Debug\TechMartProductManager.exe
+E:\TechMartProductManager\TechMartProductManager\obj\Debug\TechMartProductManager.pdb
